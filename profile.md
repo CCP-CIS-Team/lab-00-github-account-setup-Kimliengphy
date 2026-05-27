@@ -6,38 +6,38 @@
 
 ## About Me
 
-**Full Name:** <!-- e.g. Jane Smith -->
+**Full Name:** Kimlieng Phy
 
-**GitHub Username:** <!-- e.g. jsmith42 -->
+**GitHub Username:** Kimliengphy
 
-**What should I call you in class?** <!-- Preferred name or nickname -->
+**What should I call you in class?** Kim
 
 ---
 
 ## My Background
 
 **Have you taken a networking or server course before?**
-<!-- Yes / No — if yes, which one? -->
+Yes, I have taken Networking Technology and Network Routing and Switching
 
 **Any experience with Linux, Windows Server, or virtual machines?**
-<!-- A sentence is fine — "none at all" is a perfectly good answer -->
+I know some basic concepts.
 
 **What is one thing you want to be able to do by the end of this course?**
-<!-- One sentence -->
+How to use AI to deploy and manage the servers.
 
 ---
 
 ## My Setup
 
 **What OS does your personal computer run?**
-<!-- Windows / Mac / Linux / I use a lab computer -->
+Windows
 
 **Have you used Git or GitHub before this class?**
-<!-- Yes / No / A little bit -->
+No 
 
 ---
 
 ## Fun Fact
 
 **One non-tech thing about yourself:**
-<!-- Hobby, sport, where you are from, favorite food — anything! -->
+I like to watch TV and eat!!!
